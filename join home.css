@@ -1,0 +1,46 @@
+﻿.imge{
+	background-image:url('bgimg2.png');
+	background-repeat:no-repeat;
+	//background-position:100%;
+	width:100%;
+}
+.ji{
+	margin-right:10px;
+}
+.row1{
+	background-color:#112c54;
+	height:104px;
+}
+.img1{
+	padding-top:-20px;	
+}
+.join{
+	padding-top:33px;
+	//padding-right:30px;	
+}
+.pb-2{
+	margin-top:20px;
+	
+}
+.bb{
+	width:200px;
+}
+.mm{
+	margin-top:122px;
+}
+.bt{
+	float:right;
+	margin-top:-10px;
+}
+.bn{
+	width:200px;
+}
+.ss{
+	padding-bottom:15px;
+}
+m4{
+	font-size:15px;
+}
+.mt{
+	margin-top:35px;
+}
